@@ -285,8 +285,8 @@ Updates: Fríði Karlsson Justesen (FridiNaTor) 22/08-2023
 277=Savningar stað er oyðilagt
 278=Vit oyðilagt @1
 279=Fíggindarnar hava oyðilagt @1
-280=@1 er nú floksnummar @2
-281=Floksnummar @1
+280=@1 er nú flokk @2
+281=Flokk @1
 282=Skaði frá falli kom í spæli 6/1/2018 GMT+3 22:53 pm //!
 283=Hyggjara støða
 284=Tú ert blaktur úr akfarinum
@@ -344,7 +344,7 @@ Updates: Fríði Karlsson Justesen (FridiNaTor) 22/08-2023
 336=Øll //General chat
 337=Lið //Team chat
 338=Bólk //Squad chat
-339=@1 XP eftir til floksnummar @2
+339=@1 XP eftir til flokk @2
 340=Patróns Hjálp
 341=Høvd Skot Bonus
 342=Hjálm Gjøgnumslag Bonus
@@ -411,7 +411,7 @@ Updates: Fríði Karlsson Justesen (FridiNaTor) 22/08-2023
 403=@1 HØVD SKOT
 404=GRØÐA @1 LIÐFELAGAR
 405=VART @1 FERÐIR
-406=FLOKSNUMMAR @1
+406=FLOKK @1
 407=Tín brúkari er bannaður frá BattleBit Ambætarar. /?
 408=Høvuðsambætarin kundi ikki vátta tín brúkara. /?
 409=Tín núverandi Steam navn er ikki loyvt á BattleBit Ambætarar. /?
@@ -654,10 +654,10 @@ Updates: Fríði Karlsson Justesen (FridiNaTor) 22/08-2023
 646=Ljóð innstillingar//
 647=Sjón innstillingar//
 648=Skap ein nýggjan klan//
-649=Skap ein nýggjan klan og bjóða tínum vinum uppí (Floksnummar 60 kravt)//
+649=Skap ein nýggjan klan og bjóða tínum vinum uppí (Flokk 60 kravt)//
 650=Far uppí ein klan//
 651=Far uppí ein klan við innbjóðingar kotu//
-652=Tú kanst einans skapa ein klan um tú ert ein Patreon Fireteam Backer ella er Floksnummar 60 og upp.//
+652=Tú kanst einans skapa ein klan um tú ert ein Patreon Fireteam Backer ella er Flokk 60 og upp.//
 653=Innbjóðingar Kotu//
 654=Vinarliga skriva innbjóðingar kotuna niðanfyri..//
 655=Angra//
@@ -667,7 +667,7 @@ Updates: Fríði Karlsson Justesen (FridiNaTor) 22/08-2023
 659=Deyði//
 660=Liðfelag Skoti//
 661=Liðfelag Dripi//
-662=Floksnummar//
+662=Flokk//
 663=XP//
 664=Eigari//
 665=Heryvirmaður//
@@ -1007,8 +1007,8 @@ Updates: Fríði Karlsson Justesen (FridiNaTor) 22/08-2023
 999=Flokka hagtøl//
 1000=@1 Dráð við//Number of times user killed someone with this vehicle.
 1001=@1 Oyðilagt//Number of times player destroyed this vehicle.
-1002=Tú mást verja floksnummar @1 fyri at hækka viðringsmerki.
-1003=Ert tú vísur í, um tú vilt hækka viðringsmerki? Tít floksnummar, vápn og prýðs framburð verður nullstilla.//
+1002=Tú mást verja flokk @1 fyri at hækka viðringsmerki.
+1003=Ert tú vísur í, um tú vilt hækka viðringsmerki? Tít flokk, vápn og prýðs framburð verður nullstilla.//
 1004=Virðingsmerki Hækking//
 1005=Longsta Dráp @1m
 1006=Vinfólk Spæla//
@@ -1238,11 +1238,11 @@ Updates: Fríði Karlsson Justesen (FridiNaTor) 22/08-2023
 1230=Ambætararnar eru í løtuni niðri. /nAmbætararnar vera uppi aftur um @1.
 1231=Ambætar(i/ar) er(u) niðri!
 1232=Skifta um háling av spælarar//
-1233=Friendly icon size//
+1233=Stødd av ímynd liðfeløg//
 1234=Stødd av ímynd bólka liðfelagans//
 1235=Stødd av ímynd bólka leiðarans//
-1236=Ambætarin góðkennir einans spælarar omanfyri floksnummar @1
-1237=Ambætarin góðkennir einans spælarar niðanfyri floksnummar @1
+1236=Ambætarin góðkennir einans spælarar omanfyri flokk @1
+1237=Ambætarin góðkennir einans spælarar niðanfyri flokk @1
 1238=Undir Menning//
 1239=Vápna Spæl/n (Øll Ímóti Øll)//Gamemode Faroese Subject to change
 1240=Øll Ímóti Øll//Gamemode Faroese Subject to change
